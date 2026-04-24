@@ -1,23 +1,35 @@
-# TokenMeter - AI Spend Tracker for Teams
+# TokenMeter
 
-**Stop guessing what AI is costing you.**
+**Unified AI API spend tracking. Stop silently tripling your AI costs.**
 
-One dashboard for all your AI API spend. Track OpenAI, Anthropic, Google, and more.
+## The Problem
 
-## What It Does
-- Connect all your AI API keys in one place
-- Unified spend dashboard across providers
-- Cost-per-output metrics (cost per email, per report, per analysis)
-- Budget alerts before you blow through limits
-- Team usage breakdown
+Teams using multiple AI providers (OpenAI, Anthropic, Google, Replicate) have zero unified visibility. Costs silently triple as retry logic doubles charges and frontier models are used for simple tasks.
 
-## Who It Is For
-- Indie hackers running multiple AI tools
-- Small agencies using AI for client work
-- Development teams tracking API costs
-- Anyone spending $100+/mo on AI APIs
+## The Solution
+
+TokenMeter connects all your AI API keys and shows unified spend, cost-per-output metrics, and budget alerts. Identifies waste like GPT-4 doing classification work that Haiku handles at 1/10th the cost.
+
+## Features
+
+- Unified dashboard across OpenAI, Anthropic, Google, Replicate
+- Cost-per-output tracking (cost per email, report, analysis)
+- Budget alerts before you blow limits
+- Team member breakdown
+- Model optimization recommendations
 
 ## Pricing
-Free tier available. Pro from $19/mo.
 
-**[Get Early Access](https://vogdiesel-create.github.io/exp-ai-spend-001/)**
+**$19/mo** -- free during early access.
+
+## Get Early Access
+
+[Sign up for early access](https://vogdiesel-create.github.io/exp-ai-spend-001/) and be the first to try it.
+
+## Status
+
+Currently in early access. We're onboarding users and collecting feedback.
+
+---
+
+Built with AI. Tested with real data. Priced for practitioners, not enterprises.
